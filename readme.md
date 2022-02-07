@@ -3,11 +3,11 @@
 <br>
 
 # What and Why ❓
-* Old Tech
+* Old Technology
 * Problem
 * Overcoming Issue
 
-## Old Tech
+## Old Technology
 
 Let's start the discussion by imagining you as a **DEVELOPER**, who is working on building a new application using Python as the programming language. In order to make the application you choose **WindowsOS** as the operating system. Just because we assumed that you are a good Developer and finally able to develop the application. Now what if you want to run the same application in other OS? You have to change the code and make it compatible with the new OS, **Right?**
 
