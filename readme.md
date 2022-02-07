@@ -9,7 +9,7 @@
 
 ## Old Tech
 
-Let's start the discussion by imagining you as a **DEVELOPER**, who is working on building a new application using Python as the programming language. In order to make the application you choose `WindowsOS` as the operating system. Just because we assumed that you are a good Developer and finally able to develop the application. Now what if you want to run the same application in other OS? You have to change the code and make it compatible with the new OS, **`Right?`**
+Let's start the discussion by imagining you as a **DEVELOPER**, who is working on building a new application using Python as the programming language. In order to make the application you choose **WindowsOS** as the operating system. Just because we assumed that you are a good Developer and finally able to develop the application. Now what if you want to run the same application in other OS? You have to change the code and make it compatible with the new OS, **Right?**
 
 <br>
 
@@ -17,15 +17,15 @@ Let's start the discussion by imagining you as a **DEVELOPER**, who is working o
 
 So, Earlier when the developer develops something for any particular OS or platform. He/She has to think about dependecies or support for other platforms. `What if the program is not supported on the platform?` The developer has to think about the solution or different solutions. Program might require some additional libraries or frameworks. `What if the library is not available?` There are a lot of possible ways where a program or application might fail. 
 
-```
-💡 This is a bad new, when you are struggling hard to find a solution
-```
+
+> 💡 This is a bad new, when you are struggling hard to find a solution
+
 
 <br>
 
 ### Overcoming Issue
 
-Here comes the `container` in the image. Containers require less system resources than traditional or hardware virtual machine environments because they don't include operating system images. Applications running in containers can be deployed easily to multiple different operating systems and hardware platforms.
+Here comes the **container** in the image. Containers require less system resources than traditional or hardware virtual machine environments because they don't include operating system images. Applications running in containers can be deployed easily to multiple different operating systems and hardware platforms.
 
 > 😕 Is this too much ? Let's break it down then.
 
@@ -64,7 +64,7 @@ Containers are small, fast, and portable because unlike a virtual machine, conta
 
 # Deep Dive <img src="./images/info.png" alt="info" width="25px" height="25px">
 
-There are lot to learn in `Docker`. Let's see some of the topics and get the idea of it. 🙂
+There are lot to learn in **Docker**. Let's see some of the topics and get the idea of it. 🙂
 
 ![alt text](./images/container1.png "Docker Concept") 
 ![alt text](./images/docker.png "Docker Concept")
