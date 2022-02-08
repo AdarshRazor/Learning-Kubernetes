@@ -66,5 +66,10 @@ Containers are small, fast, and portable because unlike a virtual machine, conta
 
 There are lot to learn in **Docker**. Let's see some of the topics and get the idea of it. 🙂
 
-![alt text](./images/container1.png "Docker Concept") 
+![alt text](./images/container1.png "Docker Architecture") 
+
+This is a simple architecture of a docker container. You can see how app are independent of each other. Container really help to isolate the application from the host OS.
+
 ![alt text](./images/docker.png "Docker Concept")
+
+Here is a Docker concept that allows a application or executable program to build as Docker container.
